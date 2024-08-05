@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825115618497",
+    "project_id": "rate-list-2a46e",
+    "storage_bucket": "rate-list-2a46e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825115618497:android:7be56d8fc282fe7638f840",
+        "android_client_info": {
+          "package_name": "com.share.rate_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGKjt-aCVhoMimpewfbSrFlx6xUG_zDmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
