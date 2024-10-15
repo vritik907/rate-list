@@ -141,3 +141,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 Feel free to customize this template further according to your project's specific requirements and details.
+
+## Credits
+
+- **[Ritik](https://github.com/vritik907)** 
